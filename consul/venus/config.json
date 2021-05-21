@@ -33,10 +33,4 @@
       "policy": "read"
     }}
   }
-
-
-
-  "service_prefix": { "": {
-    "policy": "read"
-  }
 }
